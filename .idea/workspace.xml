@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4646c10-8d32-40a3-ba47-574e31c84601" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Makeup/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/SemImagem.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/admin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/cadastro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/carrinho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/casa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/categoria.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/cpf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/inicio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/logo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/perfil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/telefone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/teste1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/teste2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/teste3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/icones/whatsapp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/mobli.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/static/styl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makeup/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Adminst/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Adminst/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Adminst/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Adminst/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Adminst/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Adminst/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Adminst/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Carrinho/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Carrinho/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Carrinho/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Carrinho/funcoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Carrinho/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Carrinho/migrations/0002_carrinho_alter_items_preco_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Carrinho/migrations/0003_remove_items_pertence_pessoa_carrinho_pertence_a_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Carrinho/migrations/0004_carrinho_endereco_carrinho_telefone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Carrinho/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Carrinho/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Carrinho/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Carrinho/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Carrinho/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Pagmentos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Pagmentos/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Pagmentos/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Pagmentos/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Pagmentos/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Pagmentos/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Pagmentos/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Produtos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Produtos/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Produtos/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Produtos/criar_produtos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Produtos/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Produtos/migrations/0002_alter_produtos_preco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Produtos/migrations/0003_remove_categoria_imagem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Produtos/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Produtos/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Produtos/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Produtos/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Produtos/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/Carrosel/21/imagem_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/Carrosel/21/imagem_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/Carrosel/21/imagem_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/dicas/23/TDD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/produtos/23/TDD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/carrinho/carrinho.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/carrinho/finalizar_carrinho.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/creditos as imagens.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/finalizar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/_alertas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/_menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/_produto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/produtos/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/produtos/lista-categoria.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/produtos/lista-produtos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/produtos/produto-alterar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/produtos/produto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/usuarios/cadastro.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2S25ThKuKnwcech3lhUDRIphCNC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4646c10-8d32-40a3-ba47-574e31c84601" name="Changes" comment="" />
+      <created>1688331846433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688331846433</updated>
+    </task>
+    <servers />
+  </component>
+</project>
